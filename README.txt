@@ -9,7 +9,7 @@ generate blocks. You now have a private testnet:
 
   casinocoind -datadir=1  getinfo
   {
-      "version" : 60400,
+      "version" : 60300,
       "protocolversion" : 60001,
       "walletversion" : 60001,
       "balance" : 0.00000000,
@@ -27,7 +27,7 @@ generate blocks. You now have a private testnet:
 
   casinocoind -datadir=2  getinfo
   {
-      "version" : 60400,
+      "version" : 60300,
       "protocolversion" : 60001,
       "walletversion" : 60001,
       "balance" : 0.00000000,
